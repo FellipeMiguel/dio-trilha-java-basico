@@ -4,8 +4,6 @@ public class TiposVariaveis {
         //string
         String meuNome = "Fellipe Miguel";
 
-        double salarioMinimo = 2500.33;
-
         // variáveis podem ser reatribuídas
         int numero = 1;
         numero = 2;
